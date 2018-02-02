@@ -12,3 +12,4 @@ Disallow: /fancybox/
 
 
 Sitemap: https://igit.win/sitemap.xml
+Sitemap: https://igit.win/baidusitemap.xml
